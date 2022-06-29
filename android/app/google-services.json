@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737119031452",
+    "project_id": "movie-apps-f9cbc",
+    "storage_bucket": "movie-apps-f9cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737119031452:android:fa0aca9238096676ac1d59",
+        "android_client_info": {
+          "package_name": "com.dicoding.ditonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737119031452-0dkv6albermd39ltc3f77i9fuidg4bs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3UxcKYXUpE4oRaH0VZ9rdf3bOaQoXUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737119031452-0dkv6albermd39ltc3f77i9fuidg4bs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
